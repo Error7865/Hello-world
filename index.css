@@ -8,3 +8,15 @@ h1{
     color: navy;
     margin-left: 20px;
 }
+
+div > .img{
+    width: 100px;
+    height: 200px;
+}
+
+div > .logo{
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    
+}
